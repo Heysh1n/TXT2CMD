@@ -1,4 +1,4 @@
-# TXT2CMD
+  ![banner](https://i.imgur.com/MwXjfN1.png)
 
 > 🎨 **Cross-platform CLI tool for generating stylish ASCII art banners in your terminal**
 
